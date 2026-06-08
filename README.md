@@ -1,8 +1,21 @@
 # Predictive Ecommerce Analytics
 
-## Quick Links
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
+![Dash](https://img.shields.io/badge/Dash-Dashboard-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 
-- 📊 [Dashboard Overview](#dashboard-overview)
+---
+
+## 🔗 Quick Links
+
+- 📊 [Project Overview](#project-overview)
+- 🎯 [Business Problem](#business-problem)
+- 🎯 [Objectives](#objectives)
+- 🗄️ [Dataset Description](#dataset-description)
+- 🛠️ [Tools & Technologies](#tools--technologies)
+- ⚙️ [Project Workflow](#project-workflow)
+- 📱 [Dashboard Overview](#dashboard-overview)
 - 👥 [Customer Experience Analysis](#customer-experience-analysis)
 - 📦 [Product Intelligence Analysis](#product-intelligence-analysis)
 - 🏪 [Seller Intelligence Analysis](#seller-intelligence-analysis)
@@ -10,6 +23,10 @@
 - 📈 [Revenue Trend Analysis](#revenue-trend-analysis)
 - 🔮 [Predictive Analytics](#predictive-analytics)
 - 🧠 [Key Insights](#key-insights)
+- 💼 [Business Impact](#business-impact)
+- 🚧 [Challenges Faced](#challenges-faced)
+- 📚 [Key Learnings](#key-learnings)
+- 📂 [Project Structure](#project-structure)
 - 📬 [Contact](#contact)
 
 ---
@@ -24,7 +41,7 @@ The project combines exploratory data analysis, advanced business intelligence v
 
 # Business Problem
 
-E-commerce marketplaces generate massive volumes of transactional data every day.
+E-commerce companies generate massive volumes of transactional data every day.
 
 Businesses often struggle to answer critical questions such as:
 
@@ -34,13 +51,13 @@ Businesses often struggle to answer critical questions such as:
 - Which states drive the majority of revenue and orders?
 - How will future revenue grow based on historical trends?
 
-This project addresses these questions using data-driven analytics and predictive modeling.
+This project addresses these questions through data-driven analytics and predictive modeling.
 
 ---
 
 # Objectives
 
-- Analyze customer satisfaction patterns
+- Analyze customer satisfaction trends
 - Measure delivery performance impact on reviews
 - Identify high-performing product categories
 - Evaluate seller contribution and concentration
@@ -124,15 +141,15 @@ Brazilian E-Commerce Public Dataset (Olist)
 
 The project includes an interactive analytics dashboard developed using Dash.
 
-### Dashboard Home
+## Dashboard Home
 
 ![Dashboard](images/Dashboard%201.png)
 
-### KPI Overview
+## KPI Overview
 
 ![Dashboard KPI](images/Dashboard%201.1.png)
 
-### Revenue Monitoring View
+## Revenue Monitoring View
 
 ![Dashboard Revenue](images/Dashboard%201.2.png)
 
@@ -165,7 +182,7 @@ How does delivery performance affect customer satisfaction?
 
 ---
 
-## Average Review Score by Delivery Group
+### Average Review Score by Delivery Group
 
 ![Review Score](images/Average%20Review%20Score%20by%20Delivery%20Group.png)
 
@@ -177,7 +194,7 @@ How does delivery performance affect customer satisfaction?
 
 ---
 
-## Customer Experience Correlation Heatmap
+### Customer Experience Correlation Heatmap
 
 ![Correlation Heatmap](images/Customer%20Experience%20Correlation%20Heatmap.png)
 
@@ -206,7 +223,7 @@ Which product categories drive marketplace performance?
 
 ---
 
-## Premium Category Analysis
+### Premium Category Analysis
 
 ![Premium Category](images/Premium%20Category%20Analysis.png)
 
@@ -253,7 +270,7 @@ Which regions contribute the most to marketplace performance?
 
 ---
 
-## Orders by State
+### Orders by State
 
 ![Orders by State](images/Orders%20by%20State.png)
 
@@ -264,7 +281,7 @@ Which regions contribute the most to marketplace performance?
 
 ---
 
-## Revenue per Order by State
+### Revenue per Order by State
 
 ![Revenue per Order](images/Revenue%20per%20Order%20by%20states.png)
 
@@ -292,7 +309,7 @@ How has marketplace revenue evolved over time?
 
 ---
 
-## Revenue Trend and Moving Average
+### Revenue Trend and Moving Average
 
 ![Moving Average](images/Revenue%20trend%20and%20moving%20average.png)
 
