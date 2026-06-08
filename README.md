@@ -434,6 +434,4 @@ This project enables organizations to:
 
 **LinkedIn:** https://www.linkedin.com/in/mohd-israhil-shaikh-3b8b04281/
 
-**Portfolio:** https://shaikh-israhil-eqci8dy.gamma.site/
-
 **GitHub:** https://github.com/israhil10
